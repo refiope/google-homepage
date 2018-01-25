@@ -1,0 +1,32 @@
+body {
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: arial;
+  font-size: 13px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.cube {
+  background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+  background-size: 528px 68px;
+}
+
+.floatRight {
+  float:right;
+}
