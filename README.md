@@ -18,3 +18,6 @@ the searchbar. It looks slightly different from the original website, and by loo
 I have a guess that the original uses other type of input for the searchbar and the button.
 2. I failed to get the image for three elements at the top navigation bar. I temporarily replaced them with a word describing what the image looks like. I looked in the inspector to retrieve the url for the image, but I got an image which had bunch of other images including the one I wanted to use. Have to find out how I can use this type of image.
 3. I feel like I can tidy up my codes better, for example, all anchor elements are underlined when a mouse hovers over, but I have two hover selectors doing the same thing.
+
+-2018.01.26: Continued to finsish adding Images
+--Added image of the cube and the bell by finding out the position of the image within google.png and using relative position. I drew a green circle in replacement of the account picture (took reference to "The Codeplayer" drawing android logo). I think it's safe to say I finished the project. 

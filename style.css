@@ -34,8 +34,8 @@ p {
 .navbar {
   min-width: 242px;
   padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 20px;
+  padding-right: 35px;
+  padding-top: 5px;
   position: relative;
   text-align: right;
 }
@@ -79,10 +79,37 @@ p {
 }
 
 .cube {
-  background-image: url (https://super-kebin.github.io/google-homepage/i1_1967ca6a.png);
+  background-image: url("./Images/google.png");
   height: 30px;
   width: 30px;
   display: inline-block;
   background-position: -132px -38px;
   opacity: .55;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.bell {
+  background-image: url("./Images/google.png");
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  box-sizing: border-box;
+  background-position: -276px -39px;
+  opacity: .55;
+  position: relative;
+  margin-left: 10px;
+  top: 10px;
+  color:black;
+}
+
+.circle {
+  background-color: green;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  position: relative;
+  left: 10px;
+  bottom: 23px;
 }
